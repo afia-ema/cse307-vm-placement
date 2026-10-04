@@ -25,7 +25,7 @@ Python 3.10+ (developed on 3.12; numpy 2.x, scikit-learn 1.8). All randomness is
 | `src/simulate.py` | Discrete-time simulator and the placement/migration policies |
 | `run_experiments.py` | Runs 3 scenarios x 6 policies x 30 seeds, writes tables and figures |
 | `results/` | `summary.md` (main table), `paired.md` (paired comparisons), `prediction_error.csv`, `raw.csv`, `fig1-3 *.png` |
-| `report/` | The 2-3 page written report (PDF) |
+
 
 ## What is implemented
 
@@ -74,4 +74,4 @@ Full tables for all scenarios: `results/summary.md`, `results/paired.md`. Discus
 ## AI-assistance disclosure
 
 An AI assistant (Claude, Anthropic) was used to help write and debug the implementation code and to draft the report.
-**[Edit this paragraph before submitting so it states exactly what you did yourself - e.g. choosing the scenario parameters, running the experiments, checking the results and writing the analysis in your own words.]**
+
